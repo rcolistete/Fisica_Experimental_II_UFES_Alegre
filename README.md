@@ -52,7 +52,7 @@ Obs.: a ementa do plano de ensino em PDF está desatualizada, a acima é a corre
 Serão ministradas quase que somente aulas síncronas dada a pequena carga horária semanal (2h) e aspecto experimental da disciplina.  
 A discussão teórica, dos procedimentos experimentais e da análise de dados, será via aulas expositivas e dialogadas em plataformas digitais, com discussão interativa com os alunos.  
 Cada atividade experimental tem um roteiro experimental que será fornecido aos alunos, que devem realizar um relatório em grupo.  
-Face ao aspecto remoto desse Semestre Especial EARTE, sem uso presencial do Laboratório 2 de Física da UFES-Alegre, então a realização das atividades experimentais envolverá medições fornecidas pelo professor aos alunos ou uso de softwares de simulação pelos aluno ou uso de equipamento comum acessível em casa, com orientação e acompanhamento por parte do professor via plataformas digitais.  
+Face ao aspecto remoto desse Semestre Especial EARTE, sem uso presencial do Laboratório 2 de Física da UFES-Alegre, então a realização das atividades experimentais envolverá medições fornecidas pelo professor aos alunos ou uso de softwares de simulação pelos alunos ou uso de equipamento comum acessível em casa, com orientação e acompanhamento por parte do professor via plataformas digitais.  
 Fora da aula síncrona o aluno acompanha a disciplina via os sítios da seção abaixo, onde estarão publicados : arquivos das aulas lecionadas, ementa e plano de ensino, apostilas, roteiros dos experimentos, material didático diverso, notas, etc.  
 
 Serão utilizados :  
