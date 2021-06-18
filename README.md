@@ -14,6 +14,8 @@ CCENS (Centro de Ciências Exatas, Naturais e da Saúde) - [UFES Alegre](http://
 
 Multímetros. Osciloscópio. Resistores. Capacitores. Indutores. Diodo. Lei de Ohm. Carga e descarga de capacitor. Circuitos RL, RC e RLC. Campo magnético. Indução e transformadores. Dispersão com prismas. Lentes delgadas. Redes de difração. Interferência, Polarização.
 
+Obs.: a ementa do plano de ensino em PDF está desatualizada, a acima é a correta seguindo o [PPC do curso de Licenciatura em Fisica da UFES-Alegre](https://fisica.alegre.ufes.br/curr%C3%ADculo).
+
 ## Objetivos Específicos
 
 - Compreender e aplicar os conceitos de erros e desvios em medidas, bem como representação numérica de dados com algarismos significativos e incertezas;
@@ -87,6 +89,8 @@ Bibliografia Básica :
 
 Bibliografia Complementar :  
 - Tipler, P. A.; Mosca, G.; Física para Cientistas e Engenheiros : Eletricidade & Magnetismo e Ótica. Vol. 2, 5a ed., Ed. LTC, 2006. ISBN: 9788521614630.
+
+Obs.: a bibibliografia  básica e complementar do plano de ensino em PDF está desatualizada, a acima é a correta seguindo o [PPC do curso de Licenciatura em Fisica da UFES-Alegre](https://fisica.alegre.ufes.br/curr%C3%ADculo).
 
 Sítios Internet :  
 - [sítio eletrônico de Física da UFES-Alegre](https://fisica.alegre.ufes.br/apostila-de-introducao-teoria-de-erros), com apostila da disciplina contendo uma introdução ao tratamento de dados, bem como os roteiros das experiências de laboratório;  
