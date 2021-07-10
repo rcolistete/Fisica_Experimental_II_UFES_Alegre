@@ -4,6 +4,6 @@
 
 #### Data: aplicação em 18/06/2021 e entrega até 13/07/2021.
 
-Os arquivos .pdf são visualizáveis diretamente no GitHub, mas sem mostrar o estilo de  apresentação. 
+Os arquivos .pdf e .tex são visualizáveis diretamente no GitHub.
 
-Ou se pode fazer download de todo o repositório da disciplina e abrir os arquivos localmente, no seu computador/tablet/smartphone.
+Ou se pode fazer download de todo o repositório da disciplina e abrir os arquivos localmente, no seu computador/tablet/smartphone, com vantagem de poder editar, etc.
