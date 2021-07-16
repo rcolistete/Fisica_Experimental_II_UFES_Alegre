@@ -43,7 +43,7 @@ Obs.: a ementa do plano de ensino em PDF está desatualizada, a acima é a corre
     4.1. Caracterização de dispositivos eletrônicos via multímetros;  
     4.2. Ligação série e paralelo, lei de Ohm e leis de Kirchhoff;  
     4.3. Circuitos RC, carga e descarga de capacitor;  
-    4.4. Filtros RC e espectro de Sinal usando osciloscópio
+    4.4. Filtros RC e espectro de Sinal usando osciloscópio;  
     4.5. Medição de campo magnético;  
     4.6. Medição de luz e espectro luminoso.  
 
