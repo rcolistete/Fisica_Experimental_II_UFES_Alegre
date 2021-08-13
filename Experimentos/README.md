@@ -14,7 +14,7 @@
 
 ---
 
-Se não for explicitado, **no dia de cada experimento tem teste individual durante a aula síncrona, às 18h15-18h30**, sobre teoria e procedimento experimental listados roteiro.
+Se não for explicitado, **no dia de cada experimento tem teste individual durante a aula síncrona, às 18h15-18h25**, sobre teoria e procedimento experimental listados roteiro.
 
 Se não for explicitado, **antes de começar a aula síncrona do experimento, até 17h59, o grupo precisa entregar o pré-relatório do experimento**, feito em grupo. Só grupos que entregarem pré-relatório no prazo que estarão aptos a fazer experimento, com relatórios aceitos pelo professor.
 
