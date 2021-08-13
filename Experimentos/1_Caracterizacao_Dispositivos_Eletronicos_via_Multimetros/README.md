@@ -1,6 +1,6 @@
 # Experimento "Caracterização de Dispositivos Eletrônicos via Multímetros"
 
-Roteiro e modelo de relatório.
+**Roteiro e modelo de relatório**.
 
 Para ver o  :
 
@@ -12,3 +12,21 @@ Os arquivos .ipynb são visualizáveis diretamente no GitHub, mas sem mostrar o 
 
 Fazendo download de todo o repositório, dá para visualizar no seu computador os arquivos .html e abrir os arquivos .ipynb via Jupyter Notebook/JupyterLab/Google Colab, com vantagem de poder editar, etc.
 
+---
+
+Esse experimento é uma mistura dos experimentos originais do [sítio eletrônico do Laboratório 2 de Física da UFES-Alegre, seção de roteiros](https://fisica.alegre.ufes.br/roteiros-de-fisica-experimental-ii-e-fisica-iii) :
+
+- "Equipamentos de Laboratório Relacionados com a Medição de Grandezas Elétricas", com diferenças :
+  - sem uso de osciloscópio (isso ficará para o 4o experimento);
+  - sem cálculo de potència P;
+  - mais medições de I variando a escala de corrente elétrica do multímetro;
+  - medições de resistência elétrica no modo ohmímetro do multímetro;
+  - virou parte "Medindo Tensão, Corrente e Resistência Elétricas com Multímetro";
+  - passou a ter 3 tabelas com 5 medidas que envolvem cálculo de incertezas das mesmas, logo são 15 cálculos de incertezas de medidas;
+- "Caracterização de Dispositivos Eletrônicos", com diferenças :
+  - sem uso de lâmpada;
+  - tinha 4 dispositivos, com 21 medidas de V e 21 medidas de I para cada um, total de 164 medidas em que era necessário calcular incerteza;
+  - tinha 4 curvas I x V para cada um dos 4 dispositivos;
+  - virou parte "Caracterização de Resistor, Diodo e LED com Multímetro";
+  - passou a ter 21 medidas de V e 21 medidas de I para resistor, e 13 medidas de V e 13 medidas de I para diodo e para LED, total de 94 medidas em que é necessário calcular incerteza;
+  - passou a ter 3 curvas V x I, uma para cada dispositivo;
