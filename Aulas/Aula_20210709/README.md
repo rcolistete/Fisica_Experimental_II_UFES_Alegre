@@ -1,6 +1,6 @@
 # Aula de Física Experimental II
 
-## 09/02/2021
+## 09/07/2021
 
 
 Versões da aula :
