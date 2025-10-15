@@ -43,14 +43,22 @@ Vide por exemplo à venda [na loja Maker Hero](https://www.makerhero.com/produto
 
 ## Fontes de tensão elétrica contínua
 
-### Fonte de tensão elétrica contínua ajustável (3,3V e 5V) para protoboard
+### Fonte YwRobot MB102 de tensão elétrica contínua ajustável (3,3V e 5V) para protoboard
 
-Características:
-– tensão elétrica de entrada contínua via pino P4 : 6,5-12V
-– tensão elétrica de saída contínua : 3,3V e 5,0V selecionáveis via jumpers nos conectores inferiores para barramentos do protoboard, bem como em conectores superiores, além de 5,0V em porta USB-A;
-– corrente elétrica contínua máxima de saída: 700 mA.
+Características :  
+– tensão elétrica de entrada contínua via conector P4 : 6,5-12V;  
+– tensão elétrica de saída contínua : 3,3V e 5,0V selecionáveis via jumpers nos conectores inferiores para barramentos do protoboard, bem como em conectores superiores, além de 5,0V em porta USB-A;  
+– corrente elétrica contínua máxima de saída: 700 mA.  
+Obs.: a porta USB-A é citada em algumas referências como podendo ser usada como entrada, mas somente se a entrada do conector P4 não estiver sendo usada. A maioria das referências cita a porta USB-A como somente saída (quando a entrada via conector P4 estiver conectada).
 
-Vide por exemplo à venda [na loja Maker Hero](https://www.makerhero.com/produto/fonte-ajustavel-protoboard/).
+Referências :
+
+- [matéria da Components.101](https://components101.com/modules/5v-mb102-breadboard-power-supply-module);
+- [matéria da Petervis](https://static.rapidonline.com/pdf/73-4538_v1.pdf);
+- [matéria da Open Circuit](https://static.rapidonline.com/pdf/73-4538_v1.pdf);
+- [vídeo no YouTube "YwRobot Breadboard Power Supply - ThatLEDGuy - 23/05/2017"](https://www.youtube.com/watch?v=ZpCep1jL-iA);
+- [Datasheet - Handson Tech](https://www.handsontec.com/dataspecs/mb102-ps.pdf);
+- à venda em várias lojas no Brasil e no exterior, por exemplo,  [na loja Maker Hero](https://www.makerhero.com/produto/fonte-ajustavel-protoboard/).
 
 <img src="https://www.makerhero.com/wp-content/uploads/2017/07/3PS02-1.jpg" alt=" Fonte DC de baixa tensão ajustável para protoboard" width="600"/>
 
