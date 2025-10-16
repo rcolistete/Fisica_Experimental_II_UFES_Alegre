@@ -1,6 +1,6 @@
 # Material de Física Experimental II
 
-Material extra que não consta no site do [Laboratório Professor Claudio Moisés Ribeiro](https://fisica.alegre.ufes.br/apresenta%C3%A7%C3%A3o-do-laborat%C3%B3rio-2-de-f%C3%ADsica), onde tem [lista de manuais de equipamentos](https://fisica.alegre.ufes.br/manuais-dos-equipamentos-do-laboratorio-professor-claudio-moises-ribeiro).
+Material/Equipamento extra que não consta no site do [Laboratório Professor Claudio Moisés Ribeiro](https://fisica.alegre.ufes.br/apresenta%C3%A7%C3%A3o-do-laborat%C3%B3rio-2-de-f%C3%ADsica), onde tem [lista de manuais de equipamentos](https://fisica.alegre.ufes.br/manuais-dos-equipamentos-do-laboratorio-professor-claudio-moises-ribeiro).
 
 ## Cabos Jumpers
 
@@ -51,8 +51,8 @@ Características :
 – corrente elétrica contínua máxima de saída: 700 mA.  
 Obs.: a porta USB-A é citada em algumas referências como podendo ser usada como entrada, mas somente se a entrada do conector P4 não estiver sendo usada. A maioria das referências cita a porta USB-A como somente saída (quando a entrada via conector P4 estiver conectada).
 
-Referências :
-
+Referências :  
+- [matéria e vídeo (em português) com exemplo de uso - UsinaInfo](https://www.usinainfo.com.br/blog/fonte-ajustavel-para-protoboard-3-3v-e-5v-com-usb-e-p4/);
 - [matéria da Components.101](https://components101.com/modules/5v-mb102-breadboard-power-supply-module);
 - [matéria da Petervis](https://static.rapidonline.com/pdf/73-4538_v1.pdf);
 - [matéria da Open Circuit](https://static.rapidonline.com/pdf/73-4538_v1.pdf);
